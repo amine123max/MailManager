@@ -31,9 +31,9 @@ MailManager 用于发布 Aillive Mail 的官方 Windows 桌面版本。应用以
 
 | 文件 | 适用场景 | 下载 |
 | --- | --- | --- |
-| NSIS 安装程序 | 常规安装，推荐使用 | [AilliveMail_1.0.1_x64-setup.exe](https://github.com/amine123max/MailManager/releases/download/v1.0.1/AilliveMail_1.0.1_x64-setup.exe) |
-| MSI 安装程序 | Windows 管理部署 | [AilliveMail_1.0.1_x64_zh-CN.msi](https://github.com/amine123max/MailManager/releases/download/v1.0.1/AilliveMail_1.0.1_x64_zh-CN.msi) |
-| 便携版 | 无需安装直接运行 | [AilliveMail.exe](https://github.com/amine123max/MailManager/releases/download/v1.0.1/AilliveMail.exe) |
+| NSIS 安装程序 | 常规安装，推荐使用 | [AilliveMail_x64-setup.exe](https://github.com/amine123max/MailManager/releases/latest/download/AilliveMail_x64-setup.exe) |
+| MSI 安装程序 | Windows 管理部署 | [AilliveMail_x64_zh-CN.msi](https://github.com/amine123max/MailManager/releases/latest/download/AilliveMail_x64_zh-CN.msi) |
+| 便携版 | 无需安装直接运行 | [AilliveMail.exe](https://github.com/amine123max/MailManager/releases/latest/download/AilliveMail.exe) |
 
 ## 系统要求
 
@@ -46,7 +46,7 @@ MailManager 用于发布 Aillive Mail 的官方 Windows 桌面版本。应用以
 发布文件的哈希值见 [SHA256SUMS.txt](SHA256SUMS.txt)。可使用 PowerShell 校验：
 
 ```powershell
-Get-FileHash .\AilliveMail_1.0.1_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\AilliveMail_x64-setup.exe -Algorithm SHA256
 ```
 
 ## 安全说明
