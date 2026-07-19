@@ -31,9 +31,9 @@ MailManager provides the official Windows builds of Aillive Mail. The applicatio
 
 | Package | Recommended use | Download |
 | --- | --- | --- |
-| NSIS installer | Standard installation | [AilliveMail_1.0.0_x64-setup.exe](https://github.com/amine123max/MailManager/releases/download/v1.0.0/AilliveMail_1.0.0_x64-setup.exe) |
-| MSI installer | Managed Windows deployment | [AilliveMail_1.0.0_x64_zh-CN.msi](https://github.com/amine123max/MailManager/releases/download/v1.0.0/AilliveMail_1.0.0_x64_zh-CN.msi) |
-| Portable executable | Run without installation | [AilliveMail.exe](https://github.com/amine123max/MailManager/releases/download/v1.0.0/AilliveMail.exe) |
+| NSIS installer | Standard installation | [AilliveMail_1.0.1_x64-setup.exe](https://github.com/amine123max/MailManager/releases/download/v1.0.1/AilliveMail_1.0.1_x64-setup.exe) |
+| MSI installer | Managed Windows deployment | [AilliveMail_1.0.1_x64_zh-CN.msi](https://github.com/amine123max/MailManager/releases/download/v1.0.1/AilliveMail_1.0.1_x64_zh-CN.msi) |
+| Portable executable | Run without installation | [AilliveMail.exe](https://github.com/amine123max/MailManager/releases/download/v1.0.1/AilliveMail.exe) |
 
 ## Requirements
 
@@ -46,7 +46,7 @@ MailManager provides the official Windows builds of Aillive Mail. The applicatio
 Published hashes are listed in [SHA256SUMS.txt](SHA256SUMS.txt). Verify a file with PowerShell:
 
 ```powershell
-Get-FileHash .\AilliveMail_1.0.0_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\AilliveMail_1.0.1_x64-setup.exe -Algorithm SHA256
 ```
 
 ## Security
