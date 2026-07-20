@@ -54,5 +54,4 @@ Get-FileHash .\AilliveMail_x64-setup.exe -Algorithm SHA256
 请仅从本仓库的 [Releases](https://github.com/amine123max/MailManager/releases) 下载。当前安装包尚未进行代码签名，Windows SmartScreen 可能提示未知发布者；运行前请核对 SHA-256 哈希值。
 
 ## 开源协议
-感谢Linux.do社区 https://linux.do
-项目使用 [MIT License](LICENSE) 发布。
+感谢 [LINUX DO](https://linux.do/) 开源社区提供交流与分享平台。
