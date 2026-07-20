@@ -54,5 +54,4 @@ Get-FileHash .\AilliveMail_x64-setup.exe -Algorithm SHA256
 Download packages only from this repository's [Releases](https://github.com/amine123max/MailManager/releases). Current packages are not code-signed, so Windows SmartScreen may display an unknown-publisher warning; verify the SHA-256 hash before running them.
 
 ## License
-Thanks to Linux.do https://linux.do
-Released under the [MIT License](LICENSE).
+Thanks to the [LINUX DO](https://linux.do/) open-source community for providing a platform for discussion and knowledge sharing.
